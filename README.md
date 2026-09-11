@@ -1,8 +1,5 @@
 # Attila Szakacs-Bertok
 
-I work on [AxoSyslog](https://github.com/axoflow/axosyslog) at [Axoflow](https://axoflow.com).
-Most of my code is C in the syslog-ng / AxoSyslog core, plus Python tooling around its configuration grammar.
-
 ## Things I made
 
 - [axosyslog-cfg-helper](https://github.com/alltilla/axosyslog-cfg-helper) - look up AxoSyslog drivers and their options from the command line
